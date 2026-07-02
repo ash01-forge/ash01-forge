@@ -13,10 +13,10 @@
 I am a passionate programming learner focused on building strong fundamentals in software development.  
 I enjoy learning programming concepts, organizing code properly, solving logical problems, and improving step by step through consistent practice.
 
-- 💻 Currently learning **C, C++, Java, HTML, Git & GitHub**
+- 💻 Learning **C, C++, Java, HTML, Git & GitHub**
 - 🧠 Interested in **problem solving, DSA, and software development**
-- 🛠️ Exploring practical projects and clean code organization
-- 📈 Focused on improving every day through learning and consistency
+- 🛠️ Building clean, organized, and meaningful practice projects
+- 📈 Improving every day through consistency and practical learning
 - 🎯 Goal: To become a skilled software developer and build useful real-world projects
 
 ---
@@ -85,31 +85,31 @@ Basics, Operators, Conditions, Loops, Pattern Printing, Arrays, Strings, Functio
 
 ---
 
-## 🎯 Current Focus
-
-- Strengthening programming fundamentals
-- Practicing C, C++, and Java
-- Learning Data Structures and Algorithms
-- Building an organized GitHub portfolio
-- Improving problem-solving ability
-- Creating clean and meaningful projects
-
----
-
-## 📚 Learning Roadmap
+## 🧭 My Development Principles
 
 <div align="center">
 
-| Stage | Focus Area | Status |
-|------|------------|--------|
-| 01 | Git & GitHub Basics | ✅ Completed |
-| 02 | C Programming Practice | 🔄 Ongoing |
-| 03 | C++ Programming | 🔜 Next |
-| 04 | Java OOP Projects | 🔜 Next |
-| 05 | DSA Practice | 🔜 Planned |
-| 06 | Real-world Projects | 🔜 Planned |
+| Focus | What I Believe |
+|------|----------------|
+| Fundamentals First | Strong basics make advanced learning easier |
+| Practice with Purpose | Every program should improve logic and understanding |
+| Clean Organization | Well-structured code reflects better thinking |
+| Learn by Building | Real skills grow through practical projects |
+| Consistency Matters | Regular small improvements create strong progress |
+| Growth Mindset | I am always open to learning and improving |
 
 </div>
+
+---
+
+## 🎯 What I Aim For
+
+- Build strong programming fundamentals
+- Improve problem-solving ability
+- Learn data structures and algorithms deeply
+- Create clean and useful projects
+- Maintain an organized GitHub portfolio
+- Keep learning and improving consistently
 
 ---
 
