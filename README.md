@@ -92,3 +92,14 @@ Practicing C, C++, and Java
 Improving problem-solving skills
 Learning Git and GitHub professionally
 Exploring embedded systems with ESP32 and Arduino
+Learn consistently.
+Build practically.
+Improve step by step.
+Never give up.
+📫 Connect With Me
+<div align="center">
+
+</div>
+<div align="center">
+Thanks for visiting my profile! 🚀
+</div> ```
