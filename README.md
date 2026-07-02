@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ash 👋
+# Hi, I'm Adeeb 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Learning+C%2C+C%2B%2B%2C+Java+and+DSA;Building+Clean+and+Organized+Projects;Growing+One+Commit+at+a+Time" alt="Typing SVG" />
 
