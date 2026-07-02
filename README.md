@@ -1,105 +1,145 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D8FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ash+%F0%9F%91%8B;Programming+Learner+from+Bangladesh;C+%7C+C%2B%2B+%7C+Java+%7C+HTML;Exploring+Arduino%2C+ESP32+and+Sensors;Building+my+GitHub+Portfolio+Step+by+Step" alt="Typing SVG" />
+# Hi, I'm Ash 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Learning+C%2C+C%2B%2B%2C+Java+and+DSA;Building+Clean+and+Organized+Projects;Growing+One+Commit+at+a+Time" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
-<p align="center">
-I am a passionate programming learner from Bangladesh.  
-I enjoy learning programming fundamentals, solving problems, building small projects, and exploring hardware-based systems.
-</p>
+I am a passionate programming learner focused on building strong fundamentals in software development.  
+I enjoy learning programming concepts, organizing code properly, solving logical problems, and improving step by step through consistent practice.
 
----
-
-## 👨‍💻 Currently Learning
-
-- C Programming
-- C++
-- Java
-- HTML
-- Git & GitHub
-- Problem Solving
-- Hardware Projects with Arduino UNO, ESP32, and Sensors
+- 💻 Currently learning **C, C++, Java, HTML, Git & GitHub**
+- 🧠 Interested in **problem solving, DSA, and software development**
+- 🛠️ Exploring practical projects and clean code organization
+- 📈 Focused on improving every day through learning and consistency
+- 🎯 Goal: To become a skilled software developer and build useful real-world projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 ---
 
-## 🌟 Soft Skills
+## 🧩 Core Strengths
 
 <div align="center">
 
-`Time Management` • `Leadership` • `Quick Learner` • `Good Listener`  
-`Patience` • `Perseverance` • `Critical Thinking` • `Complex Problem Solving`
+<table>
+  <tr>
+    <td align="center">⏳ Time Management</td>
+    <td align="center">🤝 Leadership</td>
+    <td align="center">⚡ Quick Learner</td>
+  </tr>
+  <tr>
+    <td align="center">👂 Good Listener</td>
+    <td align="center">🧘 Patience</td>
+    <td align="center">🔥 Perseverance</td>
+  </tr>
+  <tr>
+    <td align="center">🧠 Critical Thinking</td>
+    <td align="center">🧩 Problem Solving</td>
+    <td align="center">📚 Continuous Learning</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📌 Featured Repository
+## 📌 Featured Work
 
 ### 🔹 C Programming Practice Codes
 
-This repository contains my organized C programming practice codes, including basics, operators, loops, arrays, strings, functions, recursion, pointers, structures, file handling, and problem-solving practice.
+A well-organized repository containing my C programming practice codes, arranged topic by topic.
+
+**Topics included:**  
+Basics, Operators, Conditions, Loops, Pattern Printing, Arrays, Strings, Functions, Recursion, Pointers, Structures, File Handling, Lab Problems, and Practice Projects.
 
 <div align="center">
 
-[![C Programming Practice Codes](https://github-readme-stats.vercel.app/api/pin/?username=ash01-forge&repo=C-Programming_Practice_Codes&theme=tokyonight)](https://github.com/ash01-forge/C-Programming_Practice_Codes)
+<a href="https://github.com/ash01-forge/C-Programming_Practice_Codes">
+  <img src="https://img.shields.io/badge/View%20Repository-C%20Programming%20Practice-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
+
+- Strengthening programming fundamentals
+- Practicing C, C++, and Java
+- Learning Data Structures and Algorithms
+- Building an organized GitHub portfolio
+- Improving problem-solving ability
+- Creating clean and meaningful projects
+
+---
+
+## 📚 Learning Roadmap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ash01-forge&show_icons=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash01-forge&layout=compact&theme=tokyonight" />
+| Stage | Focus Area | Status |
+|------|------------|--------|
+| 01 | Git & GitHub Basics | ✅ Completed |
+| 02 | C Programming Practice | 🔄 Ongoing |
+| 03 | C++ Programming | 🔜 Next |
+| 04 | Java OOP Projects | 🔜 Next |
+| 05 | DSA Practice | 🔜 Planned |
+| 06 | Real-world Projects | 🔜 Planned |
 
 </div>
 
 ---
 
-## 🎯 My Current Focus
+## ⚡ Mindset
 
-```text
-Building a strong programming foundation
-Practicing C, C++, and Java
-Improving problem-solving skills
-Learning Git and GitHub professionally
-Exploring embedded systems with ESP32 and Arduino
-Learn consistently.
-Build practically.
-Improve step by step.
-Never give up.
-📫 Connect With Me
 <div align="center">
+
+> Learn consistently.  
+> Build practically.  
+> Improve step by step.  
+> Never give up.
 
 </div>
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
-Thanks for visiting my profile! 🚀
-</div> ```
+
+<a href="https://github.com/ash01-forge">
+  <img src="https://img.shields.io/badge/GitHub-ash01--forge-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+</div>
