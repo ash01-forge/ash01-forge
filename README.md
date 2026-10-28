@@ -1,165 +1,102 @@
-<div align="center">
+<p align="center">
+  <img src="./banner-adeeb.svg" alt="Adeeb Sharar — CSE student at United International University, Bangladesh" width="100%" />
+</p>
 
-# Hi, I'm Adeeb 👋
+<h1 align="center">Hello 👋, I'm Adeeb Sharar</h1>
+<h3 align="center">CSE Student from Bangladesh 🇧🇩 · Robotics R&amp;D Intern</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Future+AI+%26+Machine+Learning+Enthusiast;Learning+C%2C+C%2B%2B%2C+Java+and+DSA;Building+Strong+Programming+Fundamentals;Growing+One+Commit+at+a+Time" alt="Typing SVG" />
+<p align="center">
+  I learn by building practical projects, solving programming problems, and experimenting with hardware.<br />
+  My long-term interests are <strong>Artificial Intelligence, Machine Learning, and Cybersecurity</strong>.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/ash01-forge?tab=repositories"><strong>Explore my projects</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/adeeb-sharar-093485447/"><strong>Connect on LinkedIn</strong></a>
+</p>
 
----
+<p align="center">
+  <img src="./skills-programming.svg" alt="C, C++, and Java" height="42" />
+  &nbsp;
+  <img src="./skills-hardware.svg" alt="Arduino" height="42" />
+  &nbsp;
+  <img src="./skills-database.svg" alt="MySQL" height="42" />
+  &nbsp;
+  <img src="./social-github.svg" alt="GitHub" height="42" />
+</p>
 
-## 🚀 About Me
+<br />
+<img align="right" src="./coding-lab.svg" alt="Original animated coding and hardware illustration" width="310" />
 
-I am a passionate programming learner focused on building strong fundamentals in software development.  
-My long-term goal is to work in **Artificial Intelligence and Machine Learning**, so I am currently strengthening my programming, problem-solving, and logical thinking skills step by step.
+### A little about me
 
-- 💻 Learning **C, C++, Java, HTML, Git & GitHub**
-- 🧠 Interested in **problem solving, DSA, software development, AI, and Machine Learning**
-- 🛠️ Building clean, organized, and meaningful practice projects
-- 📈 Improving every day through consistency and practical learning
-- 🤖 Preparing myself for future work in **AI, Machine Learning, and intelligent systems**
-- 🎯 Goal: To become a skilled developer and build useful real-world technology
+- 🎓 Studying **Computer Science & Engineering at United International University**.
+- 🤖 Participating in a **hardware-focused Robotics R&D internship under UIU Robotics**.
+- 🌱 Strengthening my foundations in **C, C++, Java, DSA, and SQL**.
+- 🔎 Exploring **AI/ML and cybersecurity** as future study and project directions.
+- 🛠️ Working on **team projects, sensor experiments, and programming practice**.
+- 🤝 Interested in **student research, learning opportunities, and collaboration**.
 
----
+<br clear="both" />
 
-## 🛠️ Tech Stack
+### Find me online
 
-<div align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/adeeb-sharar-093485447/"><img src="./social-linkedin.svg" width="44" height="44" alt="Adeeb Sharar on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/ash01-forge"><img src="./social-github.svg" width="44" height="44" alt="Adeeb Sharar on GitHub" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+### Languages & project tools
 
-<br><br>
+These technologies appear in my coursework and projects. My project READMEs explain the work and team contributions in more detail.
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+**Programming foundations**
 
-</div>
+<p><img src="./skills-programming.svg" height="48" alt="C, C++, Java" /></p>
 
----
+**Web project technologies**
 
-## 🤖 Future Direction
+<p><img src="./skills-web.svg" height="48" alt="HTML, CSS, JavaScript, PHP" /></p>
 
-<div align="center">
+**Database**
 
-| Area | Why It Matters to Me |
-|------|----------------------|
-| Artificial Intelligence | I want to understand how intelligent systems can solve real-world problems |
-| Machine Learning | I am interested in how machines learn from data and improve decisions |
-| Data-Driven Thinking | I want to build strong analytical and logical thinking skills |
-| Problem Solving | AI and ML require strong foundations in logic, algorithms, and mathematics |
-| Real-World Projects | I want to apply my learning by building useful and practical systems |
+<p><img src="./skills-database.svg" height="48" alt="MySQL" /></p>
 
-</div>
+**Hardware & embedded projects**
 
----
+<p><img src="./skills-hardware.svg" height="48" alt="Arduino" /> &nbsp; <strong>ESP32 · Sensors · I2C</strong></p>
 
-## 🧩 Core Strengths
+**Development tools**
 
-<div align="center">
+<p><img src="./skills-tools.svg" height="48" alt="Git, GitHub, Visual Studio Code" /></p>
 
-<table>
-  <tr>
-    <td align="center">⏳ Time Management</td>
-    <td align="center">🤝 Leadership</td>
-    <td align="center">⚡ Quick Learner</td>
-  </tr>
-  <tr>
-    <td align="center">👂 Good Listener</td>
-    <td align="center">🧘 Patience</td>
-    <td align="center">🔥 Perseverance</td>
-  </tr>
-  <tr>
-    <td align="center">🧠 Critical Thinking</td>
-    <td align="center">🧩 Problem Solving</td>
-    <td align="center">📚 Continuous Learning</td>
-  </tr>
-</table>
+### Projects to explore
 
-</div>
+| Project | What you'll find |
+| --- | --- |
+| [**BlueCycle**](https://github.com/ash01-forge/BlueCycle-Smart-Pond-Monitoring-System) | University team prototype for pond monitoring using ESP32, Arduino, sensors, pump control, and feeding. Includes firmware, setup notes, and a simulated showcase. |
+| [**ThreadFlow**](https://github.com/ash01-forge/ThreadFlow) | A team-built garment production system. My documented work includes buyer/order workflows, change requests, commitment risk analysis, authentication, and shared interface improvements. |
+| [**UIU Used Textbook Marketplace**](https://github.com/ash01-forge/UIU-Used-Textbook-Marketplace) | A team marketplace using PHP and MySQL. My documented contributions include shared backend/authentication, schema and migrations, admin workflows, and frontend/API integration. |
+| [**Java Contact Manager**](https://github.com/ash01-forge/Java-Contact-Manager) | A Java Swing contact-management project with file storage and a Codespaces setup for running the original GUI. |
 
----
+Team contribution details are available in the corresponding project READMEs.
 
-## 📌 Featured Work
+### Learning collections
 
-### 🔹 C Programming Practice Codes
+- 📚 [**DSA-I & DSA-II**](https://github.com/ash01-forge/DSA) — C/C++ exercises, assignments, graph algorithms, greedy methods, DP, and study references.
+- 💻 [**C Programming Practice**](https://github.com/ash01-forge/C-Programming_Practice_Codes) — Topic-organized programming fundamentals and exercises.
+- ☕ [**Java Practice**](https://github.com/ash01-forge/Java-Practice-Codes) — Coursework, OOP, and practice programs.
 
-A well-organized repository containing my C programming practice codes, arranged topic by topic.
+### Engineering habits I'm developing
 
-**Topics included:**  
-Basics, Operators, Conditions, Loops, Pattern Printing, Arrays, Strings, Functions, Recursion, Pointers, Structures, File Handling, Lab Problems, and Practice Projects.
+Clear setup instructions · Reproducible demos · Meaningful tests · Honest contribution notes
 
-<div align="center">
-
-<a href="https://github.com/ash01-forge/C-Programming_Practice_Codes">
-  <img src="https://img.shields.io/badge/View%20Repository-C%20Programming%20Practice-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+The marketplace repository already includes [automated syntax and selected regression checks](https://github.com/ash01-forge/UIU-Used-Textbook-Marketplace/actions/workflows/marketplace.yml).
 
 ---
 
-## 🧭 My Development Principles
+<p align="center"><strong>Learning steadily. Building with purpose.</strong><br />Open to exchanging ideas with students, researchers, and mentors.</p>
 
-<div align="center">
-
-| Focus | What I Believe |
-|------|----------------|
-| Fundamentals First | Strong basics make advanced learning easier |
-| Practice with Purpose | Every program should improve logic and understanding |
-| Clean Organization | Well-structured code reflects better thinking |
-| Learn by Building | Real skills grow through practical projects |
-| Consistency Matters | Regular small improvements create strong progress |
-| Growth Mindset | I am always open to learning and improving |
-
-</div>
-
----
-
-## 🎯 What I Aim For
-
-- Build strong programming fundamentals
-- Improve problem-solving ability
-- Learn data structures and algorithms deeply
-- Develop strong logical and analytical thinking
-- Prepare for Artificial Intelligence and Machine Learning
-- Create clean, useful, and meaningful projects
-- Maintain an organized GitHub portfolio
-- Keep learning and improving consistently
-
----
-
-## ⚡ Mindset
-
-<div align="center">
-
-> Learn consistently.  
-> Build practically.  
-> Think logically.  
-> Improve step by step.  
-> Never give up.
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ash01-forge">
-  <img src="https://img.shields.io/badge/GitHub-ash01--forge-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-</div>
+<sub>Layout inspired by <a href="https://github.com/supuna97">supuna97</a>; original banner and coding illustration made for Adeeb. Icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> — see <a href="./SKILL-ICONS-LICENSE.txt">icon license</a>.</sub>

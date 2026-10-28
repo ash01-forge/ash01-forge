@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Adeeb Sharar — CSE student, robotics and emerging technology</title><desc id="desc">An original dark navy and turquoise portfolio banner with a circuit illustration.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071727"/><stop offset="1" stop-color="#102d3c"/></linearGradient><linearGradient id="accent"><stop stop-color="#59e4c3"/><stop offset="1" stop-color="#6cb9ff"/></linearGradient><radialGradient id="glow"><stop stop-color="#4ddac0" stop-opacity=".22"/><stop offset="1" stop-color="#4ddac0" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8fd8e6" stroke-opacity=".035"/></pattern></defs>
+<style>.trace{stroke-dasharray:12 18;animation:travel 12s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes travel{to{stroke-dashoffset:-180}}@keyframes pulse{50%{opacity:.45}}@media(prefers-reduced-motion:reduce){.trace,.pulse{animation:none}}</style>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/><ellipse cx="1020" cy="150" rx="240" ry="190" fill="url(#glow)"/>
+<path d="M840 78h80v44h54m-115 118h66v-36h49m85-36h76v-64h49m-127 82h57v61h85" fill="none" stroke="#73c5d3" stroke-opacity=".23" stroke-width="2"/>
+<path class="trace" d="M840 78h80v44h54m-115 118h66v-36h49m85-36h76v-64h49" fill="none" stroke="#56dfbd" stroke-opacity=".65" stroke-width="2"/>
+<g fill="#70d7cb"><circle cx="840" cy="78" r="4"/><circle cx="859" cy="240" r="4"/><circle cx="1184" cy="104" r="4"/><circle cx="1178" cy="247" r="4"/></g>
+<rect x="974" y="103" width="112" height="112" rx="22" fill="#0b2433" stroke="#55d7c0" stroke-opacity=".6" stroke-width="2"/>
+<rect x="990" y="119" width="80" height="80" rx="13" fill="#153c48"/>
+<path d="M1010 149l-12 10 12 10m40-20 12 10-12 10m-24 13 9-26" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g stroke="#63b2bd" stroke-width="3"><path d="M994 94v9m24-9v9m24-9v9m24-9v9M994 215v9m24-9v9m24-9v9m24-9v9M965 124h9m-9 23h9m-9 24h9m-9 23h9M1086 124h9m-9 23h9m-9 24h9m-9 23h9"/></g>
+<text x="66" y="50" fill="#8daebd" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.5">STUDENT PORTFOLIO / ASH01-FORGE</text>
+<rect x="66" y="76" width="50" height="4" rx="2" fill="url(#accent)"/>
+<text x="62" y="153" fill="#f2f8fc" font-family="Segoe UI,Arial,sans-serif" font-size="67" font-weight="700" letter-spacing="-2">Adeeb Sharar</text>
+<text x="66" y="192" fill="#b8cfda" font-family="Segoe UI,Arial,sans-serif" font-size="21">Computer Science &amp; Engineering Student</text>
+<text x="66" y="223" fill="#88aab9" font-family="Segoe UI,Arial,sans-serif" font-size="16">United International University · Dhaka, Bangladesh</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#8fe4d4"><rect x="66" y="251" width="94" height="29" rx="14" fill="#18403f"/><text x="84" y="270">AI / ML</text><rect x="172" y="251" width="142" height="29" rx="14" fill="#163747"/><text x="188" y="270">CYBERSECURITY</text><rect x="326" y="251" width="112" height="29" rx="14" fill="#18403f"/><text x="346" y="270">ROBOTICS</text></g>
+<circle class="pulse" cx="1143" cy="42" r="4" fill="#65d6bc"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+<title id="title">Learning through code and hardware</title><desc id="desc">Original animated code editor and sensor circuit illustration. Decorative illustration, not activity metrics.</desc>
+<defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#112b3c"/><stop offset="1" stop-color="#0c1d2d"/></linearGradient><linearGradient id="line"><stop stop-color="#5be0c1"/><stop offset="1" stop-color="#72b8fb"/></linearGradient></defs>
+<style>.float{animation:float 5s ease-in-out infinite}.caret{animation:blink 1.2s steps(1) infinite}.signal{stroke-dasharray:8 16;animation:travel 4s linear infinite}.dot{animation:glow 3s ease-in-out infinite}@keyframes float{50%{transform:translateY(-7px)}}@keyframes blink{50%{opacity:0}}@keyframes travel{to{stroke-dashoffset:-96}}@keyframes glow{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.float,.caret,.signal,.dot{animation:none}}</style>
+<ellipse cx="320" cy="420" rx="225" ry="20" fill="#142e3c" fill-opacity=".5"/>
+<path d="M76 310h50v-56m387-44h54v106h-52M194 376v42h95" fill="none" stroke="#285465" stroke-width="3"/><path class="signal" d="M76 310h50v-56m387-44h54v106h-52" fill="none" stroke="#5bcfb7" stroke-width="3"/>
+<g class="float"><rect x="106" y="65" width="422" height="311" rx="18" fill="url(#panel)" stroke="#2a5166" stroke-width="2"/><path d="M107 108h420" stroke="#29495e" stroke-width="2"/>
+<circle cx="130" cy="87" r="6" fill="#fa8c9c"/><circle cx="152" cy="87" r="6" fill="#e6c56a"/><circle cx="174" cy="87" r="6" fill="#62d5ba"/><text x="300" y="92" text-anchor="middle" fill="#7c9daa" font-size="12" font-family="Consolas,monospace">adeeb / learning-lab</text>
+<g font-family="Consolas,monospace" font-size="18"><g fill="#486c80"><text x="127" y="151">01</text><text x="127" y="186">02</text><text x="127" y="221">03</text><text x="127" y="256">04</text><text x="127" y="291">05</text></g>
+<text x="174" y="151" fill="#81bafb">while <tspan fill="#d4e5ed">(curious) {</tspan></text><text x="193" y="186" fill="#6fe2c0">learn<tspan fill="#d4e5ed">();</tspan></text><text x="193" y="221" fill="#6fe2c0">build<tspan fill="#d4e5ed">();</tspan></text><text x="193" y="256" fill="#6fe2c0">improve<tspan fill="#d4e5ed">();</tspan></text><text x="174" y="291" fill="#d4e5ed">}</text><rect class="caret" x="190" y="278" width="8" height="19" fill="#69dbc1"/></g>
+<rect x="174" y="321" width="146" height="7" rx="3" fill="#284b5e"/><rect x="332" y="321" width="89" height="7" rx="3" fill="#1d3c51"/>
+</g>
+<g><rect x="433" y="313" width="121" height="101" rx="17" fill="#123644" stroke="#55bfae" stroke-width="2"/><rect x="452" y="333" width="82" height="59" rx="9" fill="#0b2536"/><path d="M470 364h11l7-15 10 30 8-15h10" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle class="dot" cx="538" cy="328" r="4" fill="#6cf0b9"/></g>
+<circle class="dot" cx="76" cy="310" r="7" fill="#6bd8c1"/><circle cx="567" cy="316" r="6" fill="#79b8eb"/>
+</svg>
